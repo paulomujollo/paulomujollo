@@ -30,4 +30,4 @@
 
 </details>
 
-![we are here](image-2.png)
+![we are here](image.png)
