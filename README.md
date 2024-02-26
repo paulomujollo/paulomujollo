@@ -1,6 +1,6 @@
 # Olá, sou o Paulo! 👋
 
-🧑‍💻 Analista de Desenvolvimento de Sistemas na <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank">Auto Geral Autopeças</a></strong>
+🧑‍💻 Analista de Desenvolvimento de Sistemas na <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank">Auto Geral Autopeças</a></strong> <br>
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela <strong><a href="" target="_blank">Fatec Itu</a></strong>
 
 <br>
