@@ -1,15 +1,15 @@
-# Olá, sou o Paulo! 👋
+# Hey, I'm Paulo! 👋
 
-🧑‍💻 Analista de Desenvolvimento de Sistemas na <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank">Auto Geral Autopeças</a></strong> <br>
-🎓 Tecnologo em Análise e Desenvolvimento de Sistemas pela <strong><a href="" target="_blank">Fatec</a></strong> <br>
-🎓 Técnico em Mecatrônica pela <strong><a href="" target="_blank">Etec</a></strong>
+🧑‍💻 Systems Development Analyst at <strong><a href="https://www.linkedin.com/company/autogeralautopecas/mycompany/" target="_blank">Auto Geral Autopeças</a></strong> <br>
+🎓 Graduated in Systems Analysis and Development from <strong><a href="" target="_blank">Fatec</a></strong> <br>
+🎓 Mechatronics Technician from <strong><a href="" target="_blank">Etec</a></strong>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-mujollo/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:p.mujollo@gmail.com)
 
 <details>
-   <summary> &#9776; Saiba mais</summary>
+   <summary> &#9776; Read more </summary>
 
 <br>
 
